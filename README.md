@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ahmed Esmail 👋</h1>
 <p align="center">
-  <b>Full-Stack Developer | Front-End (Angular/React) | Back-End (.NET)</b>
+  <b>Full-Stack Developer | Front-End (Angular) | Back-End (.NET)</b>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_CV_LINK"><img src="https://img.shields.io/badge/My%20CV-Green?style=for-the-badge"></a>
+  <a href="[YOUR_CV_LINK](https://drive.google.com/file/d/10eCs2iW36lNKCbJv64_ArZSY9mSageez/view?usp=drive_link)"><img src="https://img.shields.io/badge/My%20CV-Green?style=for-the-badge"></a>
   <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/My%20Portfolio-Blue?style=for-the-badge"></a>
 </p>
 
@@ -20,8 +20,8 @@
 
 - 🎓 Graduated from **Faculty of Computers & Information, Menoufia University**  
 - 🔥 Passionate about **Web Development**  
-- 🌱 Currently learning **Angular, .NET, SQL Server**  
-- 🤝 Looking to collaborate on **full-stack web projects**  
+- 🌱 Currently learning **Angular, .NET**  
+- 🤝 Looking to collaborate on **frontend angular project , full-stack web projects**  
 - 📞 WhatsApp: **01025702320**  
 - 📧 Email: **ahmedmohamedismail2001@gmail.com**
 
@@ -30,11 +30,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK"><img height="35" src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href="mailto:ahmedsom3a0@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="www.linkedin.com/in/ahmed-mohamed-esmail2001"><img height="35" src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="mailto:ahmedmohamedismail2001@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://wa.me/201025702320"><img height="35" src="https://skillicons.dev/icons?i=whatsapp"/></a>
-  <a href="https://stackoverflow.com/users/YOUR-ID"><img height="35" src="https://skillicons.dev/icons?i=stackoverflow"/></a>
-  <a href="#"><img height="35" src="https://skillicons.dev/icons?i=youtube"/></a>
+  <a href="https://stackoverflow.com"><img height="35" src="https://skillicons.dev/icons?i=stackoverflow"/></a>
 </p>
 
 ---
@@ -42,7 +41,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,react" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular" /><br>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlserver,git,github,figma" />
 </p>
 
