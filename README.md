@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/10eCs2iW36lNKCbJv64_ArZSY9mSageez/view?usp=drive_link"><img src="https://img.shields.io/badge/My%20CV-Green?style=for-the-badge"></a>
-  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/My%20Portfolio-Blue?style=for-the-badge"></a>
+  <a href="https://drive.google.com/file/d/1OPXoKHWsYMB7HmRAxcQiwc9Nm3cA-P5v/view?usp=drive_link"><img src="https://img.shields.io/badge/My%20CV-Green?style=for-the-badge"></a>
+  <a href="www.linkedin.com/in/ahmed-mohamed-esmail2001"><img src="https://img.shields.io/badge/My%20Portfolio-Blue?style=for-the-badge"></a>
 </p>
 
 ---
