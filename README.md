@@ -61,7 +61,7 @@ Full Stack Developer (MERN) | Passionate about building modern web applications
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1OPXoKHWsYMB7HmRAxcQiwc9Nm3cA-P5v/view">
+<a href="https://drive.google.com/file/d/1_A5rLew2QRbqR4Z86h1_bkklrCTtpJA2/view?usp=sharing">
 <img src="https://img.shields.io/badge/My%20CV-000?style=for-the-badge"/>
 </a>
 
